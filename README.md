@@ -1,4 +1,4 @@
-## **CS30001- CS I Prog.. and Problem Solving**
+## **CS 13001- CS I Prog.. and Problem Solving**
 
 # **Lab 1: Hello World Lab Report**
 

@@ -13,7 +13,11 @@ This lab was to explain the process of installing Visual Studio, and creating a 
 ### Software Design Methodology: 
 
 ### Results: 
-![](./Images/output.png)
+**Initial Hello World program**
+![](./Images/output.png) 
+<br/><br/>
+**Modified face output**
+![](./Images/output2.png)
 ### Conclusion and Discussion: 
 
 Appendix A 

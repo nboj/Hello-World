@@ -32,7 +32,7 @@ The results are analyzed for meaning and the significance here. You can include 
 
 _Conclusion is "Here is why I think it happened"_
 
-![](RackMultipart20240119-1-iv6809_html_17c7ac9faee7f510.png)
+![](./Images/output.png)
 
 Appendix A
 

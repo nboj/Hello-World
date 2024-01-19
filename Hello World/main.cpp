@@ -11,7 +11,7 @@ int main() {
 	// trycatch for error handling
 	try { 
 		// prints the string "Hello World!" to console
-		std::cout << "Hello, World!";
+		std::cout << "North Canton, Friday .....\nThis is my first c++ program.\n\n^   ^\n  o\n --- \n";
 		exit(0);
 	} catch (...) {
 		// some major issue went down here....

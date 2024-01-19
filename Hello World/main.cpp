@@ -2,10 +2,10 @@
 #include <iostream> 
  
 /*
-	This is a simple hello world program that prints out the string: "Hello, World!" to the console.
-	@author Christian Auman
-	@version 1.0.0
-	@since 2024-1-19
+This is a simple hello world program that prints out the string: "Hello, World!" to the console.
+@author Christian Auman
+@version 1.0.1
+@since 2024-1-19
 */
 int main() {
 	// trycatch for error handling
